@@ -5,7 +5,7 @@ I'm a Devops engineer with proven track record in maintaining,administering DevO
 
 - 👋 Hi, Currently working as Senior Devops Engineer ,leveraging Azure DevOps.
 - 👀 I’m interested in System Design,Terraform, Azure Architecture, Azure Security,GitOps 
-- 🥅 2022 Goals: To Upskill & Cross-skill accross areas of Interest.
+- 🥅 2023 Goals: To Upskill & Cross-skill accross areas of Interest.
 - ⚡ Fun fact: I’m am huge Formula 1 and Football Fan.
 
 <!---
